@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hzero-asgard" />
+        <module name="hzero-config" />
+        <module name="hzero-file" />
+        <module name="hzero-gateway" />
+        <module name="hzero-gateway-helper" />
+        <module name="hzero-iam" />
+        <module name="hzero-import" />
+        <module name="hzero-interface" />
+        <module name="hzero-message" />
+        <module name="hzero-oauth" />
+        <module name="hzero-platform" />
+        <module name="hzero-portal" />
+        <module name="hzero-register" />
+        <module name="hzero-report" />
+        <module name="hzero-scheduler" />
+        <module name="hzero-swagger" />
+        <module name="hzero-workflow" />
+        <module name="hzero-workflow-editor" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

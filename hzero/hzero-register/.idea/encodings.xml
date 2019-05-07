@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/../hzero-asgard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-gateway-helper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-iam" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-import" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-oauth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-platform" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-report" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-scheduler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-workflow" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hzero-workflow-editor" charset="UTF-8" />
+  </component>
+</project>
